@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.rupee-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.left-logo-name {
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 25px;
+  align-self: center;
+}
+.type {
+  font-size: 22px;
+  font-weight: normal;
+  color: white;
+  font-family: 'Roboto';
+  margin-right: 25px;
+}
+.r-usd-euro {
+  display: flex;
+  flex-direction: row;
+}
